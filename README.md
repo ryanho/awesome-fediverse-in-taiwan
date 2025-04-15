@@ -13,6 +13,7 @@
 中繼器（Relay）
 
  - https://aode.seediqbale.xyz/
+ - https://relay-tw.seediqbale.xyz/ （繁中和Tâi-gí臺語的實例）
  - https://relay.mistyreverie.org/
  - https://pass.zeroplex.tw/
 
