@@ -14,5 +14,6 @@
 
  - https://aode.seediqbale.xyz/
  - https://relay.mistyreverie.org/
+ - https://pass.zeroplex.tw/
 
 > Written with [StackEdit](https://stackedit.io/).
