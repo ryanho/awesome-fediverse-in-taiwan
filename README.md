@@ -12,7 +12,7 @@
 
 手機 APP 推薦
 
-- IceCube [iOS](https://apps.apple.com/us/app/ice-cubes-for-mastodon/id6444915884)
+- IceCube for Mastodon [iOS](https://apps.apple.com/us/app/ice-cubes-for-mastodon/id6444915884)
 
 中繼器（Relay）
 
