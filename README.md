@@ -10,9 +10,6 @@
  - https://mistyreverie.org 平台軟體：Misskey。使用Misskey架設的去中心化社群網路，類似Twitter。本站的特色以動畫、漫畫與遊戲為主，但不僅限於此。 本站主要使用的語言是中文、日文、英文。
  - https://social.slat.org 平台軟體：Mastodon。這是中華民國軟體自由協會 (SLAT) 的 Mastodon 社交平台。
 
-手機 APP 推薦
-
-- IceCube for Mastodon [iOS](https://apps.apple.com/us/app/ice-cubes-for-mastodon/id6444915884)
 
 中繼器（Relay）
 
@@ -22,3 +19,26 @@
  - https://pass.zeroplex.tw/
 
 > Written with [StackEdit](https://stackedit.io/).
+
+----
+
+# 行動裝置 apps
+
+這裡列出常見的 app，但不是全部的 app，若有遺漏歡迎大家推薦。
+
+備註：Misskey 網站 [設計為 PWA](https://misskey-hub.net/tw/docs/for-users/resources/apps/)，所以並沒有官方 app
+
+## Android Apps
+
+- [Mastodon](https://play.google.com/store/apps/details?id=org.joinmastodon.android) (Mastodon 官方 app，支援多帳號)
+- [Tusky](https://play.google.com/store/apps/details?id=com.keylesspalace.tusky) (Mastodon，[原始碼](https://github.com/tuskyapp/Tusky))
+- [Milktea](https://play.google.com/store/apps/details?id=jp.panta.misskeyandroidclient) (Misskey、Mastodon)
+
+
+## iOS Apps
+
+- [IceCubes](https://apps.apple.com/us/app/ice-cubes-for-mastodon/id6444915884) (mastodon)
+- [Mona](https://apps.apple.com/jp/app/%E3%83%A2%E3%83%8A-%E3%83%95%E3%82%A9%E3%83%BC-%E3%83%9E%E3%82%B9%E3%83%88%E3%83%89%E3%83%B3-mona-for-mastodon/id1659154653?uo=4&mt=8) (Mastodon)
+- [Miria](https://apps.apple.com/jp/app/miria/id6449201469) (Misskey)
+- [MissCat](https://apps.apple.com/us/app/misscat-misskey-%E3%82%AF%E3%83%A9%E3%82%A4%E3%82%A2%E3%83%B3%E3%83%88/id1505059993) (Misskey)
+- [SocialHub](https://apps.apple.com/us/app/socialhub-socialmedia-client/id1474451582) (Mastodon、Misskey、Bluesky)
