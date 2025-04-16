@@ -10,6 +10,10 @@
  - https://mistyreverie.org 平台軟體：Misskey。使用Misskey架設的去中心化社群網路，類似Twitter。本站的特色以動畫、漫畫與遊戲為主，但不僅限於此。 本站主要使用的語言是中文、日文、英文。
  - https://social.slat.org 平台軟體：Mastodon。這是中華民國軟體自由協會 (SLAT) 的 Mastodon 社交平台。
 
+手機 APP 推薦
+
+- IceCube [iOS](https://apps.apple.com/us/app/ice-cubes-for-mastodon/id6444915884)
+
 中繼器（Relay）
 
  - https://aode.seediqbale.xyz/
