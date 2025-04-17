@@ -33,6 +33,7 @@
 - [Mastodon](https://play.google.com/store/apps/details?id=org.joinmastodon.android) (Mastodon 官方 app，支援多帳號)
 - [Tusky](https://play.google.com/store/apps/details?id=com.keylesspalace.tusky) (Mastodon，[原始碼](https://github.com/tuskyapp/Tusky))
 - [Milktea](https://play.google.com/store/apps/details?id=jp.panta.misskeyandroidclient) (Misskey、Mastodon)
+- Aria ([Google Play](https://play.google.com/store/apps/details?id=com.poppingmoon.aria&hl=zh_TW) 或 [F-Droid](https://f-droid.org/packages/com.poppingmoon.aria/)) (Misskey)
 
 
 ## iOS Apps
