@@ -34,7 +34,9 @@
 - [Tusky](https://play.google.com/store/apps/details?id=com.keylesspalace.tusky) (Mastodon，[原始碼](https://github.com/tuskyapp/Tusky))
 - [Milktea](https://play.google.com/store/apps/details?id=jp.panta.misskeyandroidclient) (Misskey、Mastodon)
 - Aria ([Google Play](https://play.google.com/store/apps/details?id=com.poppingmoon.aria&hl=zh_TW) 或 [F-Droid](https://f-droid.org/packages/com.poppingmoon.aria/)) (Misskey)
-
+- Moshidon ([Google Play](https://play.google.com/store/apps/details?id=org.joinmastodon.android.moshinda) 或 [F-Droid](https://f-droid.org/zh_Hant/packages/org.joinmastodon.android.moshinda/)) (Mastodon、Pleroma、Akkoma，支援多帳號)
+  - 特色是支援 Emoji Reaction，還有能連轉嘟也能控制可見度。Mastodon 的話 Emoji Reaction 功能只有極少數站點實裝（例如 fedibird.com），但就算站點不支援也不會影響使用。
+  - 目前穩定性較差，暫時不推薦作為主力使用。[作者](https://floss.social/@moshidon) 正在把 App 重寫，在這之後可以再考慮看看。
 
 ## iOS Apps
 
