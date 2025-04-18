@@ -1,4 +1,5 @@
 # awesome-fediverse-in-taiwan
+
 在台灣的聯邦宇宙站台與服務
 
 聯邦宇宙站台（只列出有開放註冊的）
@@ -18,8 +19,6 @@
  - https://relay.mistyreverie.org/
  - https://pass.zeroplex.tw/
 
-> Written with [StackEdit](https://stackedit.io/).
-
 ----
 
 # 行動裝置 apps
@@ -35,7 +34,7 @@
 - [Milktea](https://play.google.com/store/apps/details?id=jp.panta.misskeyandroidclient) (Misskey、Mastodon)
 - Aria ([Google Play](https://play.google.com/store/apps/details?id=com.poppingmoon.aria&hl=zh_TW) 或 [F-Droid](https://f-droid.org/packages/com.poppingmoon.aria/)) (Misskey)
 - Moshidon ([Google Play](https://play.google.com/store/apps/details?id=org.joinmastodon.android.moshinda) 或 [F-Droid](https://f-droid.org/zh_Hant/packages/org.joinmastodon.android.moshinda/)) (Mastodon、Pleroma、Akkoma，支援多帳號)
-  - 特色是支援 Emoji Reaction，還有能連轉嘟也能控制可見度。Mastodon 的話 Emoji Reaction 功能只有極少數站點實裝（例如 fedibird.com），但就算站點不支援也不會影響使用。
+  - 特色是支援 Emoji Reaction，還有能連轉嘟也能控制可見度。Mastodon 的話 Emoji Reaction 功能只有極少數站點實裝 (例如 fedibird.com），但就算站點不支援也不會影響使用。
   - 目前穩定性較差，暫時不推薦作為主力使用。[作者](https://floss.social/@moshidon) 正在把 App 重寫，在這之後可以再考慮看看。
 
 ## iOS Apps
@@ -45,3 +44,10 @@
 - [Miria](https://apps.apple.com/jp/app/miria/id6449201469) (Misskey)
 - [MissCat](https://apps.apple.com/us/app/misscat-misskey-%E3%82%AF%E3%83%A9%E3%82%A4%E3%82%A2%E3%83%B3%E3%83%88/id1505059993) (Misskey)
 - [SocialHub](https://apps.apple.com/us/app/socialhub-socialmedia-client/id1474451582) (Mastodon、Misskey、Bluesky)
+
+## 網頁介面 / PWA
+
+可以作為網頁介面登入 Mastodon，也可以通過新增手機網頁捷徑成為 PWA
+
+- [Phanpy](https://phanpy.social/)
+- [Elk](https://elk.zone/)
