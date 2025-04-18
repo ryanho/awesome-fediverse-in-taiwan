@@ -1,3 +1,22 @@
+# 難民潮
+
+大家熟悉的社群平台 Meta (前 Facebook)，進日因為用於內容顯示的演算法、隱私以及內容審查等疑慮，讓大家閃避不急，紛紛開始尋找其他社交工具的替代方案。
+
+其實類似的事情僅這一次，2022 年年末，Elon Musk 買下 Twitter 後，修改演算法、開始推動部份功能收費，也造成恐慌。
+
+
+
+參考資料：
+- [仇恨言論、煽動暴力是否該審查？馬斯克收購Twitter，但他口中的「言論自由」受到外界質疑 - TNL The News Lens 關鍵評論網
+](https://www.thenewslens.com/article/166075)
+- [使用者冒充嘲諷新認證制遭停權，馬斯克揚言強化推特帳號管制 | iThome](https://www.ithome.com.tw/news/154075)
+- [軟體自由電子報 #9 | 聯邦宇宙的七月砲火(上)：巨獸 Threads 來襲 | SLAT 中華民國軟體自由協會](https://slat.org.tw/index.php/node/190)
+- [軟體自由電子報 #10 | 聯邦宇宙的七月砲火(下)：流離尋岸 | SLAT 中華民國軟體自由協會](https://slat.org.tw/index.php/node/191)
+- [前臉書總監指中國介入 Meta 審查台港用戶發文 ｜ 公視新聞網 PNN](https://news.pts.org.tw/article/746619)
+
+
+
+
 # awesome-fediverse-in-taiwan
 
 在台灣的聯邦宇宙站台與服務
