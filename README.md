@@ -1,6 +1,7 @@
 # awesome-fediverse-in-taiwan
+[告訴我更多關於聯邦宇宙的事情](https://github.com/ryanho/awesome-fediverse-in-taiwan/wiki)
 
-在台灣的聯邦宇宙站台與服務
+在台灣或由台灣人建置管理的聯邦宇宙站台與服務
 
 聯邦宇宙站台（只列出有開放註冊的）
 
