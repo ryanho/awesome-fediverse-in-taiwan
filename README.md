@@ -44,3 +44,10 @@
 - [Miria](https://apps.apple.com/jp/app/miria/id6449201469) (Misskey)
 - [MissCat](https://apps.apple.com/us/app/misscat-misskey-%E3%82%AF%E3%83%A9%E3%82%A4%E3%82%A2%E3%83%B3%E3%83%88/id1505059993) (Misskey)
 - [SocialHub](https://apps.apple.com/us/app/socialhub-socialmedia-client/id1474451582) (Mastodon、Misskey、Bluesky)
+
+## 網頁介面 / PWA
+
+可以作為網頁介面登入 Mastodon，也可以通過新增手機網頁捷徑成為 PWA
+
+- [Phanpy](https://phanpy.social/)
+- [Elk](https://elk.zone/)
