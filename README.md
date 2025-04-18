@@ -4,7 +4,6 @@
 
 其實類似的事情不僅這一次，2022 年年末，Elon Musk 買下 Twitter 後，修改演算法、開始推動部份功能收費，也造成恐慌。
 
-
 參考資料：
 - [仇恨言論、煽動暴力是否該審查？馬斯克收購Twitter，但他口中的「言論自由」受到外界質疑 - TNL The News Lens 關鍵評論網
 ](https://www.thenewslens.com/article/166075)
