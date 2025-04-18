@@ -11,6 +11,7 @@
 - [軟體自由電子報 #9 | 聯邦宇宙的七月砲火(上)：巨獸 Threads 來襲 | SLAT 中華民國軟體自由協會](https://slat.org.tw/index.php/node/190)
 - [軟體自由電子報 #10 | 聯邦宇宙的七月砲火(下)：流離尋岸 | SLAT 中華民國軟體自由協會](https://slat.org.tw/index.php/node/191)
 - [前臉書總監指中國介入 Meta 審查台港用戶發文 ｜ 公視新聞網 PNN](https://news.pts.org.tw/article/746619)
+- [追蹤馬斯克私人飛機的推特帳號遭永久停權 | iThome](https://www.ithome.com.tw/news/154712)
 
 
 
