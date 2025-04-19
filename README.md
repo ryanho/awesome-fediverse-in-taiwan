@@ -37,6 +37,12 @@
 - Moshidon ([Google Play](https://play.google.com/store/apps/details?id=org.joinmastodon.android.moshinda) 或 [F-Droid](https://f-droid.org/zh_Hant/packages/org.joinmastodon.android.moshinda/)) (Mastodon、Pleroma、Akkoma，支援多帳號)
   - 特色是支援 Emoji Reaction，還有能連轉嘟也能控制可見度。Mastodon 的話 Emoji Reaction 功能只有極少數站點實裝 (例如 fedibird.com），但就算站點不支援也不會影響使用。
   - 目前穩定性較差，暫時不推薦作為主力使用。[作者](https://floss.social/@moshidon) 正在把 App 重寫，在這之後可以再考慮看看。
+- Fedilab ([Google Play](https://play.google.com/store/apps/details?id=app.fedilab.android) 或 [F-Droid](https://f-droid.org/en/packages/fr.gouv.etalab.mastodon))，支援絕大多數 Fediverse 平台與 peertube，官方帳號： [@app@toot.fedilab.app](https://toot.fedilab.app/@apps)。
+  - Google Play 版不支援註冊
+  - 支援排程發文
+  - 通知僅有定時檢查的通知 (eg: 15 分鐘檢查一下)
+  - 有在本機快取中搜尋最近看過的主時間軸嘟文的功能
+  - 能記憶離開時在各時間軸的位置
 
 ## iOS Apps
 
